@@ -1,4 +1,4 @@
-# Método Bitel V2RAY
+# Binarios 👀
 
 Instalador automático para que funcione V2Ray 8787 compatible con HTTP Custom.
 
