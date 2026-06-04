@@ -1,8 +1,5 @@
-# Binarios 👀
-
-Instalador automático para que funcione V2Ray 8787 compatible con HTTP Custom.
-
+Instalador automático 
 ## Instalación
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/yourvpsmaster/dnstt-binaries/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/yourvpsmaster/binaries/main/install.sh)
